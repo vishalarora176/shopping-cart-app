@@ -1,0 +1,28 @@
+.orderSummary {
+    width: 600px;
+    /* border: 1px solid #000000; */
+    /* border: 1px solid #efefef; */
+    /* height: 800px; */
+    scroll-behavior: auto;
+    display: inline-block;
+}
+
+.orderSummaryHeader {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.orderSummaryHeader .itemLabel {
+    width: 60%;
+    display: inline-block;
+}
+.orderSummaryHeader .quantityLabel {
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+}
+.orderSummaryHeader .priceLabel {
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+.summaryItem {
+    height: 50px;
+    border: 1px solid #efefef;
+    box-shadow: 1px 1px #efefef;
+    display: flex;
+}
+
+.summaryItem img {
+    height: 90%;
+    margin: 3px;
+    width: auto;
+}
+
+.summaryItem label {
+    margin: 12px;
+    font-size: 18px;
+}
+
+.summaryItem button {
+    margin: 3px;
+    width: auto;
+    background: none;
+    border: none;
+    font-size: 20px;
+}
+
+.summaryItem button:hover {
+    cursor: pointer;
+    font-weight: bold;
+}

@@ -1,0 +1,20 @@
+.header {
+    width: 600px;
+    padding: 10px 0;
+    border-bottom: 2px solid black;
+}
+
+.header span {
+    margin: 2px 10px;
+    font-size: 20px;
+}
+
+.back {
+    background: url(../../assets/images/back.png) no-repeat;
+    /* width: 40px;
+    height: 40px; */
+}
+
+.summaryContainer {
+    margin: 20px auto;
+}

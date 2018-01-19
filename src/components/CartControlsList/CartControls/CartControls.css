@@ -1,0 +1,17 @@
+.cartControls {
+    width: 100%;
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.itemName {
+    width: 60%;
+}
+
+.itemQuantity {
+    width: 20%;
+}
+
+.itemPrice {
+    width: 20%;
+}

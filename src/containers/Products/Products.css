@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 25px;
+    margin: 10px;
+    box-sizing: border-box;
+    border-bottom: 2px solid #efefef;
+}
+
+/* .GoToCartButton {
+    background: #0099ff;
+    color: white;
+    border: none;
+    margin: 0 0 10px 0;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.GoToCartButton:hover {
+    background: white;
+    border: 1px solid #0099ff;
+    color: #0099ff;
+} */

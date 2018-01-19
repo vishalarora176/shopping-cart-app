@@ -1,0 +1,72 @@
+.item {
+    height: 250px;
+    width: 230px;
+    border: 1px solid #efefef;
+    margin: 35px 10px;
+    display: inline;
+    box-sizing: border-box;
+}
+
+.itemImage {
+    height: 180px;
+}
+
+.itemImage img {
+    height: 140px;
+    width: 140px;
+    margin: 20px auto;
+    display: block;
+}
+
+.itemInfo {
+    background: #efefef;
+    height: 70px;
+    padding: 5px;
+}
+
+.itemLabel {
+    display: block;
+}
+
+.itemControls {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.itemControls label {
+    margin: 5px;
+}
+
+.itemControls Button {
+    margin: 5px;
+}
+
+.discount {
+    position: relative;
+    top: 40px;
+    background: #70c35d;
+    padding: 5px;
+    color: white;
+}
+
+.priceDiscounted {
+    text-decoration: line-through;
+}
+
+.button {
+    background: white;
+    border: 1px solid #0099ff;
+    margin: 0 0 10px 0;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    color: #0099ff;
+}
+
+.button:hover {
+    background: #0099ff;
+    color: white;   
+    
+    
+}
