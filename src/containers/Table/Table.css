@@ -1,0 +1,30 @@
+.statusIcon {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.active {
+  background: greenyellow;
+}
+
+.inactive {
+  background: red;
+}
+
+table { 
+  border-collapse: separate; 
+}
+
+thead {
+  font-weight: bold;
+  /* text-align: center; */
+}
+
+table tr {
+  background: #f1f1f1;
+}
+
+td {
+  padding: 10px;
+}
